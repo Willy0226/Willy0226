@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi it's Willy,
 
-<!--
-**Willy0226/Willy0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### WelCome to my GitHub portfolio!
+
+---------------------------------------------------------------------
+
+
 
 Here are some ideas to get you started:
 
