@@ -1,6 +1,6 @@
-### Hi there, it's Willy,
+## Hi there, it's Willy.
 
-## I'm a 22 Spring New Grad, Traveller, Great Cooker and Former Baseball Player!!
+### I'm a 22 Spring CS New Grad, Traveller, Great Cooker and Former Baseball Player!!
 - 🌱 I’m currently looking for a new job to start my coding journey.
 - 👯 I’m looking to collaborate on gaming dev! 
 - 🥅 My 2022 goal is to make fun games and contribute more to open source projects.
@@ -9,37 +9,52 @@
 
 ### Contact With Me:
 [<img align="left" alt="Willy Chien | LinkedIn" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" />][linkedin]
-[<img align="left" alt="Willy Chien | Instagram" width="32px" src="https://user-images.githubusercontent.com/86935394/169668060-befb60b7-24f0-4211-9c30-b678b4ce96c9.png" />][instagram]
+[<img align="left" alt="Willy Chien | Indeed" width="32px" src="https://spirerecoverysolutions.com/wp-content/uploads/2020/04/Home-Icon-indeed-v2-300x300-1.png" />][indeed]
 [<img align="left" alt="Willy Chien | Gmail" width="32px" src="https://user-images.githubusercontent.com/86935394/169668261-f377245f-eae8-44aa-9e1c-3239fd247ce6.png" />][gmail]
+[<img align="left" alt="Willy Chien | Instagram" width="32px" src="https://user-images.githubusercontent.com/86935394/169668060-befb60b7-24f0-4211-9c30-b678b4ce96c9.png" />][instagram]
+
 <br />
 
-
-
-
 ### Coding Interests:
-- Gaming Logic
-- AI
-- Data Processing
-- Machine Learning
-- IoT and Embedded Systems
+- 🎮 Gaming Logic
+- 🤖 AI
+- 🖥️ Data Processing
+- 📚 Machine Learning
+- 🌐 IoT and Embedded Systems
 
 ### Other Interests Beside Coding:
-- Baseball
-- Crytpo
-- Car
-- Fishing
+- ⚾ Baseball
+- 💰 Crytpo
+- 🚗 Car
+- 🎣 Fishing
 
 ### Things I am currenting working on:
 - Personal Website
 - AI System for A Zombie Game
 
-### Education
+### Education:
+<img align="left" alt="Willy Chien | CSUSM" width="38px" src="https://user-images.githubusercontent.com/86935394/169668547-b4243f0f-83c2-455b-bdde-8eb9abd276ad.jpg" />
+B.S. Computer Science at Califonia State University San Marcos 
+
+<br />
+<br />
+
+## Languages and Tools
+<img align="left" alt="C++" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-256.png" />
+<img align="left" alt="C#" width="36px" src="https://user-images.githubusercontent.com/86935394/169668963-85717bc3-8031-45a0-b3fd-c84afe3b7b93.png" />
+<img align="left" alt="Python" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" />
+<img align="left" alt="MySQL" width="36px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
+<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Unity" width="36px" src="https://user-images.githubusercontent.com/86935394/169668928-b4966c27-139b-4a74-a126-4f95b80f29cd.png" />
+<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Putty" width="36px" src="https://user-images.githubusercontent.com/86935394/169669046-2492d34e-ec10-4038-8e14-a6f97cdc13e6.png" />
+<img align="left" alt="PyCharm" width="36px" src="https://user-images.githubusercontent.com/86935394/169669095-a790e0ca-beff-4853-ba2c-178b8f9bae47.png" />
+<img align="left" alt="Arduino" width="36px" src="https://user-images.githubusercontent.com/86935394/169669116-d2ba65ad-512f-4032-a5dc-eecabeee5e86.png" />
 
 
-
--->
 
 [linkedin]: https://www.linkedin.com/in/tingwei-chien-b17935217/
-[instagram]: https://www.instagram.com/chienwadeeee/
 [gmail]: https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSHwQbRgTLxVkzjLrXbmXsGmtsGXxhSkXpLmxKhNDcJfWdgshjDPpvRkWlZdcZvlbCRkhgjs
+[instagram]: https://www.instagram.com/chienwadeeee/
+[indeed]: https://my.indeed.com/resume?hl=en&co=US&from=gnav-resume--myind
 
