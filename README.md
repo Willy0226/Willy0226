@@ -28,7 +28,7 @@
 - 🚗 Car
 - 🎣 Fishing
 
-### Things I am currenting working on:
+### Things I am currently working on:
 - Personal Website
 - AI System for A Zombie Game
 
