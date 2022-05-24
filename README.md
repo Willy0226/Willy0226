@@ -44,6 +44,9 @@ B.S. Computer Science at Califonia State University San Marcos
 <img align="left" alt="C#" width="36px" src="https://user-images.githubusercontent.com/86935394/169668963-85717bc3-8031-45a0-b3fd-c84afe3b7b93.png" />
 <img align="left" alt="Python" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png" />
 <img align="left" alt="MySQL" width="36px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" />
+<img align="left" alt="HTML" width="36px" src="https://user-images.githubusercontent.com/86935394/169928262-29e576fd-3f97-496b-899b-95e0a14b54ca.png" />
+<img align="left" alt="CSS" width="36px" src="https://user-images.githubusercontent.com/86935394/169928212-739421ea-e817-41a5-b56b-ae73b789f4e9.png" />
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Unity" width="36px" src="https://user-images.githubusercontent.com/86935394/169668928-b4966c27-139b-4a74-a126-4f95b80f29cd.png" />
 <img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
