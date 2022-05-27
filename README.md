@@ -1,6 +1,6 @@
 ## Hi there, it's Willy.
 
-### I'm a 22 Spring CS New Grad, Traveller, Great Cooker and Former Baseball Player!!
+### I'm a 22 Spring CS New Grad, Traveller, Great Cooker, Crypto Trader and Former College Baseball Player!!
 - 🌱 I’m currently looking for a new job to start my coding journey.
 - 👯 I’m looking to collaborate on gaming dev! 
 - 🥅 My 2022 goal is to make fun games and contribute more to open source projects.
@@ -29,8 +29,8 @@
 - 🎣 Fishing
 
 ### Things I am currently working on:
-- Personal Website
-- AI System for A Zombie Game
+- [Personal Website][web]
+- [AI System for A Zombie Game][zom]
 
 ### Education:
 <img align="left" alt="Willy Chien | CSUSM" width="38px" src="https://user-images.githubusercontent.com/86935394/169668547-b4243f0f-83c2-455b-bdde-8eb9abd276ad.jpg" />
@@ -60,4 +60,6 @@ B.S. Computer Science at Califonia State University San Marcos
 [gmail]: https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSHwQbRgTLxVkzjLrXbmXsGmtsGXxhSkXpLmxKhNDcJfWdgshjDPpvRkWlZdcZvlbCRkhgjs
 [instagram]: https://www.instagram.com/chienwadeeee/
 [indeed]: https://my.indeed.com/resume?hl=en&co=US&from=gnav-resume--myind
+[web]: https://chickenstocktrading.com/
+[zom]: https://github.com/Willy0226/Zombie-Land
 
