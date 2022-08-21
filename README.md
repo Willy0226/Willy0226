@@ -27,6 +27,7 @@
 - 💰 Crytpo
 - 🚗 Car
 - 🎣 Fishing
+- :camera: Photography
 
 ### Things I am currently working on:
 - [Personal Website][web]
