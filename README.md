@@ -1,7 +1,7 @@
 ## Hi there, it's Willy.
 
-### I'm a 22 Spring CS New Grad, Traveller, Great Cooker, Crypto Trader and Former College Baseball Player!!
-- 🌱 I’m currently looking for a new job to start my coding journey.
+### I'm a Programmer, Traveller, Great Cooker, Crypto Trader and Former College Baseball Player!!
+- 🌱 I’m currently working for The Verse.
 - 👯 I’m looking to collaborate on gaming dev! 
 - 🥅 My 2022 goal is to make fun games and contribute more to open source projects.
 - 💬 Ask me about baseball.⚾
