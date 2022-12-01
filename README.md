@@ -4,7 +4,7 @@
 - 🌱 I’m currently working for The Verse.
 - 👯 I’m looking to collaborate on gaming dev(3D game)!    
 - 🥅 My 2022 goal is to make fun games and contribute more to open source projects.    
-- 💬 Ask me about baseball.⚾   
+- 💬 Ask me about baseball.⚾    
 - ⚡ Fun fact: I played in Taiwan national baseball team when I was 12.       
    
 ### Contact With Me:
