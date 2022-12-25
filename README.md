@@ -1,7 +1,7 @@
 ## Hi there, it's Willy. 
    
 ### I'm a Programmer, Traveller, Great Cooker, Crypto Trader and Former College Baseball Player!!  
-- 🌱 I’m currently working for The Verse.
+- 🌱 I’m currently working for The Verse. 
 - 👯 I’m looking to collaborate on gaming dev(3D game)! 
 - 🥅 My 2022 goal is to make fun games and contribute more to open source projects. 
 - 💬 Ask me about baseball.⚾   
