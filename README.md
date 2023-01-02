@@ -2,8 +2,8 @@
    
 ### I'm a Programmer, Traveller, Great Cooker, Crypto Trader and Former College Baseball Player!!     
 - 🌱 I’m currently working for The Verse. 
-- 👯 I’m looking to collaborate on gaming dev(3D game)! 
-- 🥅 My 2022 goal is to make fun games and contribute more to open source projects. 
+- 👯 I’m looking to collaborate on gaming dev! 
+- 🥅 My 2023 goal is to master multiplayer networking dev and push one mobile game to the market. 
 - 💬 Ask me about baseball.⚾   
 - ⚡ Fun fact: I played in Taiwan national baseball team when I was 12.
    
