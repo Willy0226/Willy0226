@@ -1,5 +1,5 @@
 ## Hi there, it's Willy.                 
-               
+                
 ### I'm a Programmer, Traveller, Great Cooker, Crypto Trader and Former College Baseball Player!!   
 - 🌱 I’m currently working for The Verse.
 - 👯 I’m looking to collaborate on gaming/mobile dev!  
