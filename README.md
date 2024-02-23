@@ -3,7 +3,7 @@
           
 - 🌱 I’m currently working for The Verse.      
 - 👯 I’m looking to collaborate on gaming/mobile dev!              
-- 🥅 My 2023 goal is to master multiplayer networking dev and push one mobile game to the market.                      
+- 🥅 My 2024 goal is to master multiplayer networking dev and push one mobile game to the market.                      
 - 💬 Ask me about baseball.⚾                     
 - ⚡ Fun fact: I played in Taiwan national baseball team when I was 12.                        
                  
