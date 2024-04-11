@@ -11,7 +11,7 @@
 [<img align="left" alt="Willy Chien | LinkedIn" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" />][linkedin]
 [<img align="left" alt="Willy Chien | Indeed" width="32px" src="https://spirerecoverysolutions.com/wp-content/uploads/2020/04/Home-Icon-indeed-v2-300x300-1.png" />][indeed]
 [<img align="left" alt="Willy Chien | Gmail" width="32px" src="https://user-images.githubusercontent.com/86935394/169668261-f377245f-eae8-44aa-9e1c-3239fd247ce6.png" />][gmail]
-[<img align="left" alt="Willy Chien | Instagram" width="32px" src="https://user-images.githubusercontent.com/86935394/169668060-befb60b7-24f0-4211-9c30-b678b4ce96c9.png" />][instagram]   
+[<img align="left" alt="Willy Chien | Instagram" width="32px" src="https://user-images.githubusercontent.com/86935394/169668060-befb60b7-24f0-4211-9c30-b678b4ce96c9.png" />][instagram]    
         
 <br />                      
    
