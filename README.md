@@ -26,7 +26,7 @@
 - ⚾ Baseball
 - 💰 Crytpo
 - 🚗 Car
-- 🎣 Fishing
+- 🎣 Fishing 
 - :camera: Photography   
 
 ### Things I am currently working on:
