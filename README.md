@@ -24,7 +24,7 @@
  
 ### Other Interests Beside Coding:
 - ⚾ Baseball
-- 💰 Crytpo
+- 💰 Crytpo 
 - 🚗 Car  
 - 🎣 Fishing 
 - :camera: Photography   
