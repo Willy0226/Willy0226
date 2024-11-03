@@ -56,7 +56,7 @@ B.S. Computer Science at Califonia State University San Marcos
 <img align="left" alt="Arduino" width="36px" src="https://user-images.githubusercontent.com/86935394/169669116-d2ba65ad-512f-4032-a5dc-eecabeee5e86.png" />
     
               
-    
+     
 [linkedin]: https://www.linkedin.com/in/tingwei-chien-b17935217/
 [gmail]: https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSHwQbRgTLxVkzjLrXbmXsGmtsGXxhSkXpLmxKhNDcJfWdgshjDPpvRkWlZdcZvlbCRkhgjs
 [instagram]: https://www.instagram.com/chienwadeeee/
