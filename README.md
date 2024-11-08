@@ -54,7 +54,7 @@ B.S. Computer Science at Califonia State University San Marcos
 <img align="left" alt="Putty" width="36px" src="https://user-images.githubusercontent.com/86935394/169669046-2492d34e-ec10-4038-8e14-a6f97cdc13e6.png" />
 <img align="left" alt="PyCharm" width="36px" src="https://user-images.githubusercontent.com/86935394/169669095-a790e0ca-beff-4853-ba2c-178b8f9bae47.png" />
 <img align="left" alt="Arduino" width="36px" src="https://user-images.githubusercontent.com/86935394/169669116-d2ba65ad-512f-4032-a5dc-eecabeee5e86.png" />
-    
+     
                    
      
 [linkedin]: https://www.linkedin.com/in/tingwei-chien-b17935217/
