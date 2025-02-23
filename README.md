@@ -1,5 +1,5 @@
 ## Hi there, it's Willy.      
-### I'm a Programmer, Traveller, Great Cooker, Crypto Trader and Former College Baseball Player!!           
+### I'm a Programmer, Traveller, Great Cooker, Crypto Trader and Former College Baseball Player!!            
                               
 - 👯 I’m looking to collaborate on gaming/mobile dev!                                      
 - 🥅 My 2024 goal is to master multiplayer networking dev and push one mobile game to the market.   
