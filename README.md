@@ -20,7 +20,6 @@
 - 🤖 AI
 - 🖥️ Data Processing 
 - 📚 Machine Learning
-- 🌐 IoT and Embedded Systems
  
 ### Other Interests Beside Coding:
 - ⚾ Baseball
