@@ -22,10 +22,6 @@
 - 🎣 Fishing 
 - :camera: Photography   
 
-### Things I am currently working on:
-- [Personal Website][web]
-- [AI System for A Zombie Game][zom]
-
 ### Education:
 <img align="left" alt="Willy Chien | CSUSM" width="38px" src="https://user-images.githubusercontent.com/86935394/169668547-b4243f0f-83c2-455b-bdde-8eb9abd276ad.jpg" />
 B.S. Computer Science at Califonia State University San Marcos 
