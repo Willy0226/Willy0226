@@ -28,7 +28,6 @@ B.S. Computer Science at Califonia State University San Marcos
 
 <br /> 
 <br />     
-
 ## Languages and Tools
 <img align="left" alt="C++" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-256.png" />
 <img align="left" alt="C#" width="36px" src="https://user-images.githubusercontent.com/86935394/169668963-85717bc3-8031-45a0-b3fd-c84afe3b7b93.png" />
