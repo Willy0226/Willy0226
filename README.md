@@ -1,5 +1,5 @@
 ## Hi there, it's Willy.      
-### I'm a Programmer, Traveller, Great Cooker, Crypto Trader and Former College Baseball Player!!
+### I'm a Programmer, Traveller, Great Cooker, Crypto Trader and Former College Baseball Player!! 
                                            
 ### Contact With Me:                 
 [<img align="left" alt="Willy Chien | LinkedIn" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" />][linkedin]
