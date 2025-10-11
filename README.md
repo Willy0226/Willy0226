@@ -9,7 +9,7 @@
                   
 <br />                               
             
-### Coding Interests:    
+### Coding Interests:     
 - 🎮 Gaming Logic  
 - 🤖 AI
 - 🖥️ Data Processing 
