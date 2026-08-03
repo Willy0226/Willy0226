@@ -29,7 +29,7 @@ B.S. Computer Science at Califonia State University San Marcos
 <br /> 
 <img align="left" alt="Willy Chien | SCU" width="38px" src="https://www.scu.edu/media/offices/umc/scu-brand-guidelines/Logo-Vertical-1-Rev-760x760.jpg" />
 M.S. Computer Science and Engineering at Santa Clara University
-<br />  
+<br />   
 <br />     
 
 ## Languages and Tools
