@@ -15,7 +15,7 @@
 - 🖥️ Data Processing 
 - 📚 Machine Learning
  
-### Other Interests Beside Coding:
+### Other Interests Besides Coding:
 - ⚾ Baseball
 - 💰 Crytpo 
 - 🚗 Car  
@@ -24,7 +24,7 @@
 
 ### Education:
 <img align="left" alt="Willy Chien | CSUSM" width="38px" src="https://user-images.githubusercontent.com/86935394/169668547-b4243f0f-83c2-455b-bdde-8eb9abd276ad.jpg" />
-B.S. Computer Science at Califonia State University San Marcos  
+B.S. Computer Science at California State University, San Marcos  
 <br /> 
 <br /> 
 <img align="left" alt="Willy Chien | SCU" width="38px" src="https://www.scu.edu/media/offices/umc/scu-brand-guidelines/Logo-Vertical-1-Rev-760x760.jpg" />
