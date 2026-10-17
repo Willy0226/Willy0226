@@ -12,7 +12,7 @@
 - 🎮 Gaming Logic   
 - 🤖 AI   
 - 🖥️ Data Processing  
-- 📚 Machine Learning
+- 📚 Machine Learning 
  
 ### Other Interests Besides Coding:
 - ⚾ Baseball
