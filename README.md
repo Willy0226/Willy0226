@@ -1,4 +1,4 @@
-## Hi there, it's Willy.       
+ ## Hi there, it's Willy.       
 ### I'm a Programmer, Traveller, Great Cooker, Crypto Trader and Former College Baseball Player!!   
                                              
 ### Contact With Me:                 
@@ -12,7 +12,7 @@
 - 🎮 Gaming Logic     
 - 🤖 AI    
 - 🖥️ Data Processing   
-- 📚 Machine Learning 
+- 📚 Machine Learning  
  
 ### Other Interests Besides Coding:
 - ⚾ Baseball
